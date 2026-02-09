@@ -25,7 +25,7 @@ I work at the intersection of remote sensing, machine learning, and precision ag
 - Machine learning (Random Forest, Neural Networks)
 - Data visualization and spatial analytics
 
-## Portfolio (Industry-oriented projects)
+## Portfolio
 Work in progress:
 - UAV vegetation index processing pipeline
 - Nitrogen status classification and management zones
@@ -34,6 +34,6 @@ Work in progress:
 - Field management zone delineation
 
 ## Career Interests
-AgTech | Precision Agriculture | Industrial R&D | Government Research (AAFC)
+AgTech | Precision Agriculture | Industrial R&D | Government Research
 
 Location: Manitoba, Canada
